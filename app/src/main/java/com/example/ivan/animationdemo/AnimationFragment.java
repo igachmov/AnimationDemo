@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 public class AnimationFragment extends DialogFragment {
     private GestureDetector gesture;
-    
+
     private static final int SWIPE_MAX_OFF_PATH = 250;
     private static final int SWIPE_THRESHOLD_VELOCITY = 200;
 
