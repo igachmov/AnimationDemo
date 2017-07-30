@@ -1,4 +1,4 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/fragment"
     android:layout_width="match_parent"
@@ -12,4 +12,4 @@
         android:text="@string/hello_blank_fragment"
         android:background="@color/colorAccent"/>
 
-</LinearLayout>
+</RelativeLayout>
